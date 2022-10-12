@@ -12,6 +12,7 @@ function App() {
     <ScoreContextProvider>
     <div className='score-container'>
       <div className="App">
+        <h3>It's only test</h3>
     <ScoreComponent />
     <InfoBoard />
   </div>
